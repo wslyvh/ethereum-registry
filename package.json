@@ -1,0 +1,17 @@
+{
+  "name": "ethereum-registry",
+  "version": "1.0.0",
+  "description": "Ethereum Smart contract registry",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wslyvh/ethereum-registry.git"
+  },
+  "keywords": [ "ethereum", "solidity", "smart contracts" ],
+  "author": "wslyvh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wslyvh/ethereum-registry/issues"
+  },
+  "homepage": "https://github.com/wslyvh/ethereum-registry#readme"
+}
