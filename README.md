@@ -6,6 +6,7 @@
 ## Contracts
 * [Gnosis MultiSig wallet](https://github.com/gnosis/MultiSigWallet) - [Wallet UI](https://wallet.gnosis.pm)
 * [Christian Lundkvist Simple MultiSig wallet](https://github.com/christianlundkvist/simple-multisig) - [Wallet UI](https://riverdimes.io/wallet/)
+* [OpenZeppelin Crowdsale starter](https://github.com/OpenZeppelin/sample-crowdsale-starter)
 
 ## Libraries
 * [StringUtils](https://github.com/Arachnid/solidity-stringutils)
