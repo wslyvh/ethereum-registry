@@ -33,6 +33,11 @@
 * [Token-Curated Registry](https://github.com/skmgoldin/tcr/blob/master/contracts/Registry.sol)
 * [Queryable Index for Ordered Data](https://github.com/pipermerriam/ethereum-grove/blob/master/contracts/Grove.sol) - [Grove](http://ethereum-grove.readthedocs.io/en/latest/#)
 
+#### Payments
+* [Escrow #1](https://github.com/James-Sangalli/Solidity-Contract-Examples/blob/master/contracts/misc/escrow.sol)
+* [Escrow #2](https://gist.github.com/rjmacarthy/4278cdd3fdb811fa6a3d9372868822ca)
+* [Remittance](https://github.com/codingupastorm/solidity-remittance/blob/master/contracts/Remittance.sol)
+
 #### Voting
 * [Partial-Lock Commit-Reveal Voting](https://github.com/ConsenSys/PLCRVoting)
 
