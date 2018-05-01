@@ -55,6 +55,7 @@
 * https://github.com/oraclize/ethereum-examples/
 * https://github.com/ethereum/dapp-bin/
 * https://github.com/bellaj/smart-contract
+* https://github.com/fivedogit/solidity-baby-steps/tree/master/contracts
 
 ## Package managers
 * https://www.ethpm.com/registry/packages
